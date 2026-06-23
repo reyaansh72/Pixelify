@@ -126,7 +126,7 @@ system/
 ## 📝 Important Notes
 
 - **Always test your changes** before flashing on your main device. Use a test device or create a system backup first.
-- **Keep `system.zip` updated** with your latest changes before running `repack.sh`.
+- **Keep `system` Folder updated** with your latest changes before running `repack.sh`.
 - **Ensure proper file permissions** when adding new files to the system directory.
 - **Follow Magisk module structure** guidelines to ensure compatibility.
 
